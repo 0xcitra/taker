@@ -3561,3 +3561,12 @@
 4/17/2025 | 4:21:02 PM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
 4/17/2025 | 4:22:14 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
 4/17/2025 | 4:22:14 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:17:37 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:17:37 PM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+4/17/2025 | 8:17:38 PM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+4/17/2025 | 8:17:39 PM | INFO | Login successful... 
+4/17/2025 | 8:17:39 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:17:40 PM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 1392000 
+4/17/2025 | 8:17:40 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:17:44 PM | INFO | Last mining time: 4/17/2025, 12:32:15 PM
+4/17/2025 | 8:17:44 PM | WARN | Mining already started, next mining time is: 4/18/2025, 12:32:15 PM
