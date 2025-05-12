@@ -4977,3 +4977,16 @@
 5/12/2025 | 4:21:12 PM | INFO | Trying to check user miner status... 
 5/12/2025 | 4:21:18 PM | INFO | Last mining time: 5/11/2025, 8:16:30 PM
 5/12/2025 | 4:21:18 PM | WARN | Mining already started, next mining time is: 5/12/2025, 8:16:30 PM
+5/12/2025 | 8:18:26 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 8:18:27 PM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/12/2025 | 8:18:27 PM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/12/2025 | 8:18:28 PM | INFO | Login successful... 
+5/12/2025 | 8:18:28 PM | INFO | Trying to check user info... 
+5/12/2025 | 8:18:29 PM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 1896000 
+5/12/2025 | 8:18:29 PM | INFO | Trying to check user miner status... 
+5/12/2025 | 8:18:33 PM | INFO | Last mining time: 5/11/2025, 8:16:30 PM
+5/12/2025 | 8:18:33 PM | INFO | Trying to start Mining for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/12/2025 | 8:18:38 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/12/2025 | 8:18:38 PM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/12/2025 | 8:20:18 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204655580831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a00c069949ab60b55cdba32ee983a2f256c4bf600e351355cc647cd2b34c48bdaba01d3bfdadf16ef55b58920694469685a453adf00e91e72c2163a5abca34a4c1c9"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
+5/12/2025 | 8:20:18 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
