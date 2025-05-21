@@ -5481,3 +5481,15 @@
 5/21/2025 | 4:20:27 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
 5/21/2025 | 4:20:32 AM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e8204655c8307a120832625a082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a07d8266b6e5e3e848ba3a453754abc78f51162570cb845f6a06f8d80838d14aeea077ce5e9a2d4ed87c28b274befdab218d7b999a19a873876e13cd588b8b47f1c3","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/21/2025 | 4:20:32 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 8:21:58 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 8:21:58 AM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 8:21:59 AM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 8:22:00 AM | INFO | Login successful... 
+5/21/2025 | 8:22:00 AM | INFO | Trying to check user info... 
+5/21/2025 | 8:22:01 AM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 2088000 
+5/21/2025 | 8:22:01 AM | INFO | Trying to check user miner status... 
+5/21/2025 | 8:22:03 AM | INFO | Last mining time: 3/25/2025, 8:20:57 AM
+5/21/2025 | 8:22:03 AM | INFO | Trying to start Mining for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 8:22:04 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 8:22:04 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 8:22:11 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1b3d5c150a9e528f24ad4c4c8e85888bd85d2760936fb4bfc019a024cd89d04a 
