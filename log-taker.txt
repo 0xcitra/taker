@@ -5468,3 +5468,16 @@
 5/21/2025 | 1:19:50 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
 5/21/2025 | 1:19:51 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xD034f3621e7C3406dD8866a67564AaCC203D8904"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x26","from":"0xd034f3621e7c3406dd8866a67564aacc203d8904","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/21/2025 | 1:19:51 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 4:20:23 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 4:20:23 AM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 4:20:24 AM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 4:20:25 AM | INFO | Login successful... 
+5/21/2025 | 4:20:25 AM | INFO | Trying to check user info... 
+5/21/2025 | 4:20:26 AM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 2088000 
+5/21/2025 | 4:20:26 AM | INFO | Trying to check user miner status... 
+5/21/2025 | 4:20:26 AM | INFO | Last mining time: 5/19/2025, 8:18:21 PM
+5/21/2025 | 4:20:26 AM | INFO | Trying to start Mining for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 4:20:27 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 4:20:27 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 4:20:32 AM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e8204655c8307a120832625a082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a07d8266b6e5e3e848ba3a453754abc78f51162570cb845f6a06f8d80838d14aeea077ce5e9a2d4ed87c28b274befdab218d7b999a19a873876e13cd588b8b47f1c3","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/21/2025 | 4:20:32 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
