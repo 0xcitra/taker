@@ -5455,3 +5455,16 @@
 5/20/2025 | 8:18:36 PM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
 5/20/2025 | 8:18:40 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655c80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a0c98325a78191776a540a8269c4e1bfee143b348129aac52f60ae182a5045c4cea06be6877fa5917322e85f86d03545260e237eef59dfc94dbd9a0f7da1f8dd29ea","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/20/2025 | 8:18:40 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 1:19:46 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 1:19:46 AM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 1:19:47 AM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 1:19:48 AM | INFO | Login successful... 
+5/21/2025 | 1:19:48 AM | INFO | Trying to check user info... 
+5/21/2025 | 1:19:48 AM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 2088000 
+5/21/2025 | 1:19:48 AM | INFO | Trying to check user miner status... 
+5/21/2025 | 1:19:49 AM | INFO | Last mining time: 5/19/2025, 8:18:21 PM
+5/21/2025 | 1:19:49 AM | INFO | Trying to start Mining for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 1:19:50 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 1:19:50 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+5/21/2025 | 1:19:51 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xD034f3621e7C3406dD8866a67564AaCC203D8904"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x26","from":"0xd034f3621e7c3406dd8866a67564aacc203d8904","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/21/2025 | 1:19:51 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
