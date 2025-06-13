@@ -6778,3 +6778,15 @@
 6/12/2025 | 8:25:47 PM | WARN | Retrying... (0 attempts left) 
 6/12/2025 | 8:28:06 PM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/12/2025 | 8:28:06 PM | ERROR | Failed to retrieve nonce for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/13/2025 | 1:21:30 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/13/2025 | 1:21:31 AM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/13/2025 | 1:21:32 AM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/13/2025 | 1:21:33 AM | INFO | Login successful... 
+6/13/2025 | 1:21:33 AM | INFO | Trying to check user info... 
+6/13/2025 | 1:21:34 AM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 2568000 
+6/13/2025 | 1:21:34 AM | INFO | Trying to check user miner status... 
+6/13/2025 | 1:21:34 AM | INFO | Last mining time: 6/12/2025, 1:20:24 AM
+6/13/2025 | 1:21:34 AM | INFO | Trying to start Mining for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/13/2025 | 1:21:35 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/13/2025 | 1:21:35 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/13/2025 | 1:21:46 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb9710e14b46a2cde2621751f2b9da190cda01d69b129f042454dce333ad3bdfa 
