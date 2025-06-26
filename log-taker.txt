@@ -7525,3 +7525,15 @@
 6/26/2025 | 1:21:14 AM | INFO | Trying to check user miner status... 
 6/26/2025 | 1:21:14 AM | INFO | Last mining time: 6/25/2025, 1:22:27 AM
 6/26/2025 | 1:21:14 AM | WARN | Mining already started, next mining time is: 6/26/2025, 1:22:27 AM
+6/26/2025 | 4:26:28 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/26/2025 | 4:26:29 AM | INFO | Start process for wallet 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/26/2025 | 4:26:29 AM | INFO | Trying To Login for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/26/2025 | 4:26:30 AM | INFO | Login successful... 
+6/26/2025 | 4:26:30 AM | INFO | Trying to check user info... 
+6/26/2025 | 4:26:31 AM | INFO | User ID: 28276490 | Twitter: @citrakrm | Total Points: 2856000 
+6/26/2025 | 4:26:31 AM | INFO | Trying to check user miner status... 
+6/26/2025 | 4:26:31 AM | INFO | Last mining time: 6/25/2025, 1:22:27 AM
+6/26/2025 | 4:26:31 AM | INFO | Trying to start Mining for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/26/2025 | 4:26:32 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/26/2025 | 4:26:32 AM | INFO | Trying to activate mining on-chain for wallet: 0xD034f3621e7C3406dD8866a67564AaCC203D8904 
+6/26/2025 | 4:26:37 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x6323abfff6dba6c291ce23c37227ca5ad2ba6d57abe7e36d50bf6ec01395560d 
